@@ -37,6 +37,12 @@ FastAPI · PostgreSQL · Docker · Kubernetes (k3s) · Prometheus · Grafana · 
 
 ---
 
+## Stats
+
+[![spectre-suite stars](https://img.shields.io/github/stars/bigwalkdoe/spectre-suite?style=flat&color=blue)](https://github.com/bigwalkdoe/spectre-suite) [![spectre-kde stars](https://img.shields.io/github/stars/bigwalkdoe/spectre-kde?style=flat&color=blue)](https://github.com/bigwalkdoe/spectre-kde) [![followers](https://img.shields.io/github/followers/bigwalkdoe?style=flat&color=green)](https://github.com/bigwalkdoe?tab=followers)
+
+---
+
 ## Links
 
 - [Arcvantiq](https://arcvantiq.com) — employer
