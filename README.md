@@ -43,6 +43,3 @@ FastAPI · PostgreSQL · Docker · Kubernetes (k3s) · Prometheus · Grafana · 
 - [anomaly](https://github.com/bigwalkdoe/anomaly) — active project
 - [spectre-suite](https://github.com/bigwalkdoe/spectre-suite) — flagship tooling
 
----
-
-[last updated]
