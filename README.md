@@ -1,4 +1,4 @@
-# Deon (BWD)
+# Deon
 
 **Linux systems engineer building resilient, secure infrastructure.**
 
