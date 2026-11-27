@@ -1,4 +1,4 @@
-# Deon
+# BWD
 
 **Linux systems engineer building resilient, secure infrastructure.**
 
@@ -13,10 +13,12 @@ I design and ship dependable systems — from hardened server bootstraps to auto
 ## Featured Work
 
 ### [Anomaly](https://github.com/bigwalkdoe/anomaly)
+
 Open-source, multi-user penetration-testing and cyber-operations platform for recon, assessment, and reporting.  
 `Python`
 
 ### [Spectre Suite](https://github.com/bigwalkdoe/spectre-suite)
+
 System maintenance, backup, and monitoring automation behind one CLI — the flagship of the Spectre ecosystem.  
 `Python`
 
